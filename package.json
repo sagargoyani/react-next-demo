@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "compression": "^1.7.4",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "http-proxy-middleware": "^0.19.1",
     "next": "^9.0.3",
     "next-routes": "^1.4.2",
